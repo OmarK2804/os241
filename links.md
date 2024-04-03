@@ -11,3 +11,4 @@ It covers how linux kernel work, important linux commands, and many more.
 * [C Tutorial](https://www.w3schools.com/c/c_intro.php?external_link=true) --- Basic introduction to C programming language as well as examples of codes.
 * [How to copy files remotely using SSH](https://www.simplified.guide/ssh/copy-file) --- Methods for remote file transfer using SSH
 * [How to copy/clone a VM](https://forums.virtualbox.org/viewtopic.php?p=245067) --- Genuine (ORI) Computer Science students back up their VM!
+* [cmp Command in Linux with examples](https://www.geeksforgeeks.org/cmp-command-in-linux-with-examples/) --- Used to compare the two files byte by byte and helps you to find out whether the two files are identical or not.
