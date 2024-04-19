@@ -12,3 +12,4 @@ It covers how linux kernel work, important linux commands, and many more.
 * [How to copy files remotely using SSH](https://www.simplified.guide/ssh/copy-file) --- Methods for remote file transfer using SSH
 * [How to copy/clone a VM](https://forums.virtualbox.org/viewtopic.php?p=245067) --- Genuine (ORI) Computer Science students back up their VM!
 * [cmp Command in Linux with examples](https://www.geeksforgeeks.org/cmp-command-in-linux-with-examples/) --- Used to compare the two files byte by byte and helps you to find out whether the two files are identical or not.
+* [Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) --- A cheat sheet for bash commands.
