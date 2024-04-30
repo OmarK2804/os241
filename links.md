@@ -13,3 +13,4 @@ It covers how linux kernel work, important linux commands, and many more.
 * [How to copy/clone a VM](https://forums.virtualbox.org/viewtopic.php?p=245067) --- Genuine (ORI) Computer Science students back up their VM!
 * [cmp Command in Linux with examples](https://www.geeksforgeeks.org/cmp-command-in-linux-with-examples/) --- Used to compare the two files byte by byte and helps you to find out whether the two files are identical or not.
 * [Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) --- A cheat sheet for bash commands.
+* [LFS 12.1 - How to build Linux From Scratch 12.1](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) --- How to install LFS 12.1 on real hardware
