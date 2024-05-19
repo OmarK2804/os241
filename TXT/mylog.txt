@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W10 60 L05 Quiz related including studying
+ZCZC W10 10 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 360 L10 Assignment #10
 ZCZC W09 20 L00 General, etc. 
 ZCZC W09 10 L01 SCELE related 
 ZCZC W09 200 L02 CLASSROOM meetings related 
